@@ -4,6 +4,7 @@
  * up for a new site matches the key for that user and then displays confirmation.
  *
  * @package WordPress
+ * learning git editing this on Github.com and going to see what happens locally
  */
 
 define( 'WP_INSTALLING', true );
